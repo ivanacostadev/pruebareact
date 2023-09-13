@@ -14,11 +14,11 @@ const HomeLogged = () => {
   return (
     <div className="container-fluid">
     <NavBar />
-    <div className="row justify-content-center align-items-center min-vh-100"> {/* Centra vertical y horizontalmente */}
+    <div className="row justify-content-center align-items-center min-vh-100"> 
       <div className="col cardhome">
         <h1 className="text-center">Bienvenido {userData.st_NombreUser}</h1>
   
-        <div className="text-center mt-4"> {/* Centra los botones horizontalmente */}
+        <div className="text-center mt-4">
           <div className="col">
             <Link to="/newpost">
               <button className="btn btnhomelogged">
