@@ -15,6 +15,7 @@ Integración de Endpoints: La aplicación se integra con endpoints externos para
 Modo Offline: BlogReactApp cuenta con un modo offline que permite a los usuarios acceder y leer las publicaciones incluso cuando no tienen conexión a Internet. Esto se logra mediante el almacenamiento en caché de contenido previamente visitado para su acceso sin conexión.
 
 Instalar el proyecto:
+Una vez haya instaldo el servidor el cual nos alimentara de datos ademas de permitirnos las funcionalidades de Loginy Signup asi comoel CRUDde los posts.
 
 Como primer paso es nuestra consola  
 # git clone https://github.com/ivanacostadev/pruebareact.git
