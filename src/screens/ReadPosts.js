@@ -43,7 +43,7 @@ const ReadPost = () => {
         </div>
       </div>
       <div className="col-md-6">
-        {/* Agrega contenido adicional en la columna derecha si es necesario */}
+
       </div>
     </div>
   </div>
