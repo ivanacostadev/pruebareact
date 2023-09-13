@@ -115,7 +115,7 @@ const Buscador = () => {
   return (
     <div className="container-fluid">
     <div className="row">
-      <div className="col-md-8 offset-md-2"> {/* Centra el contenido en el medio de la página */}
+      <div className="col-md-8 offset-md-2">
         <div className="card cardhome">
           <div className="card-body">
             <h1 className="card-title cardhome text-center">Todos los Posts</h1>
@@ -161,7 +161,7 @@ const Buscador = () => {
                   </div>
                 </div>
               </div>
-              <div className="text-center"> {/* Centra el botón en el medio */}
+              <div className="text-center"> 
                 <button className="btn btnhomelog" type="submit">
                   <img alt='icons' className='icons' src={lupa} />Buscar
                 </button>
