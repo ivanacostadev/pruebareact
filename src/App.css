@@ -1,0 +1,110 @@
+
+
+
+.App {
+  text-align: center;
+  background-color: black;
+
+}
+
+body{
+  background-color: #000000;
+}
+
+/*ICONS*/
+.icons{
+  width: 30px;
+  height: 30px;
+  margin: 3px;
+}
+.iconswrite{
+  width: 100px;
+  height: 100px;
+  margin: 3px;
+}
+/*CARDS*/
+
+.cardhome{
+  background: rgba(18, 136, 239, 0.282);
+  box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0);
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  color: aliceblue;
+
+
+
+  margin-bottom: 18px;
+}
+
+.csignup{
+  margin: 20px;
+}
+.cardposts{
+  background:rgba(6, 178, 221, 0.372);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.706);
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  color: aliceblue;
+
+  margin-bottom: 18px;
+  align-self: center;
+
+
+}
+
+/*BOTONES*/
+
+.btnhomelog{
+  background-color: rgb(0, 183, 255);
+  margin: 10px;
+  margin-top: 10px;
+
+
+}
+.btnhomelogged{
+  background-color: rgb(0, 183, 255);
+  margin: 10px;
+  margin-top: 10px;
+  height: 300px;
+  width: 400px;
+  border-radius: 20px;
+  margin-bottom: 40px;
+}
+
+.btnhomesig{
+  
+background-color: rgb(50, 249, 0);
+margin: 10px;
+}
+
+/*Componentes*/
+.navbar{
+  background: #000000;
+  box-shadow: 0 8px 32px 0 rgba(224, 224, 224, 0.117);
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  color: aliceblue;
+
+  margin-bottom: 18px;
+
+}
+
+/*TEXTOS*/
+.txthome{
+  font-size:60px ;
+  color: aliceblue ;
+  margin-bottom: 30px;
+}
+.txtfecha{
+  font-size: 10px;
+}
+.txtbtn{
+  font-size: 40px;
+  color: aliceblue  ;
+}
